@@ -20,3 +20,5 @@ https://try.github.io/levels/1/challenges/1
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/ch02.html
 https://git-scm.com/book/es/v1/Empezando
 http://rogerdudler.github.io/git-guide/index.es.html
+
+edicion nueva ivan
