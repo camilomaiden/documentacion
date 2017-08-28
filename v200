@@ -1,0 +1,48 @@
+Programas para programar en Voyage 200
+
+Montar una maquina virtual (VM) con Virtualbox y WinXP
+
+Virtualbox:
+http://download.virtualbox.org/virtualbox/5.1.22/VirtualBox-5.1.22-115126-Win.exe
+
+TI Emulator:
+http://www.ticalc.org/pub/win/tiemu.zip
+
+GTK+ - Requisito de  TI Emu
+https://sourceforge.net/projects/gladewin32/files/gtk%2B-win32-runtime/2.6.10/gtk-win32-2.6.10-rc1.exe/download?use_mirror=razaoinfo&download=
+
+Daisuke Edit - Editor programas TI-Basic
+https://sourceforge.net/projects/daisuke-edit/files/latest/download
+
+ .NET Framework 3.5 Service Pack 1 (paquete completo) - para WinXP, requisito de Daisuke Edit 
+https://www.microsoft.com/es-es/download/confirmation.aspx?id=25150
+
+Sistema operativo Voyage 200
+https://education.ti.com/download/en/ed-tech/3BC45C2FF8C944AEB59DD5D11AF5D480/37E834B296B94762950DE4972B5BDDCC/os.v2u
+
+Idioma español para Voyage 200 - Programa para V0yage 200 [No lo recomiendo]
+https://education.ti.com/download/es/ed-tech/3BC45C2FF8C944AEB59DD5D11AF5D480/E570A688EBB94F589CD5FB3EB3962650/tiesp_v200.9xk
+
+Escritor de ecuaciones - Programa para V0yage 200
+https://education.ti.com/download/en/ed-tech/300A76DC837F45119E11E3D72810F2FF/943381DF93484D2DACB7188DC73D4EE5/eqw92.9xk
+
+Cellsheet - Programa para V0yage 200
+https://education.ti.com/download/en/ed-tech/55E48C0E1E834DBE998DF56D7887096E/C271A67A917149008AAA6C6F79BCC89C/ticsheet.9xk
+
+Cellsheet  Converter - Programa para Win
+https://education.ti.com/download/en/ed-tech/55E48C0E1E834DBE998DF56D7887096E/501F920D259943219B7A168F06E35254/ticellsheetconverter.exe
+
+Notefolio - Programa para V0yage 200
+https://education.ti.com/download/en/ed-tech/B9558ADE61834FBEAD582E21ED94319F/B3D4350B2C024AFAAA30B0AFAEC36988/tinotes.9xk
+
+Notefolio Creator - Programa para Win
+https://education.ti.com/download/en/ed-tech/B9558ADE61834FBEAD582E21ED94319F/2BB361B4D6CD4AFEA5BA62237F219F9D/tinotefoliocreator.exe
+
+ .NET Framework Version 1.1 Redistributable Package - Requisito Notefolio creator
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=26
+
+TI Connect - Requisito Notefolio Creator
+https://education.ti.com/download/en/ed-tech/B59F6C83468C4574ABFEE93D2BC3F807/937B6E45F6C8458E977CBD06FAFE042B/TI-Connect_ES-4.0.0.218.exe
+
+Guia de programacion en TI-Basic
+http://cb.mty.itesm.mx/talleres/tecnologias/sesion07/guia-de-programacipn-en-TI-basica-suescun.pdf

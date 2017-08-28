@@ -21,3 +21,15 @@ https://try.github.io/levels/1/challenges/1
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/ch02.html
 https://git-scm.com/book/es/v1/Empezando
 http://rogerdudler.github.io/git-guide/index.es.html
+
+---------------
+SO
+https://nixos.org/
+https://www.gnu.org/software/guix/
+
+Proyectos gubernamentales
+canaima.softwarelibre.gob.ve
+huayra.conectarigualdad.gob.ar/institucional
+
+WM
+https://wiki.archlinux.org/index.php/window_manager#Stacking_window_managers
