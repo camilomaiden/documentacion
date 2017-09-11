@@ -58,3 +58,10 @@ https://leetcode.com/
 https://programmingpraxis.com/
 https://www.hackerearth.com/challenges/
 
+webs para aprender full stack programming
+https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004
+https://www.coursera.org/specializations/full-stack
+https://www.edx.org/
+https://www.thinkful.com/bootcamp/web-development/
+https://generalassemb.ly/education/web-development-immersive
+https://www.lynda.com/learning-paths/Web/become-a-full-stack-web-developer
