@@ -46,3 +46,15 @@ https://wiki.archlinux.org/index.php/window_manager#Stacking_window_managers
 proyectos latex
 http://biblatex-biber.sourceforge.net/
 https://www.sharelatex.com/learn/XeLaTeX
+beamer
+
+webs para programadores
+https://stackoverflow.com/
+https://www.codechef.com/
+https://github.com/
+https://projecteuler.net/
+http://codeforces.com/
+https://leetcode.com/
+https://programmingpraxis.com/
+https://www.hackerearth.com/challenges/
+
