@@ -23,15 +23,20 @@ https://blog.desdelinux.net/emacs-1/
 https://anders.com/blockchain/
 
 5) Git
-
 https://cglusach.github.io/manualgit/
+https://git-scm.com/
 https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github
 https://try.github.io/levels/1/challenges/1
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/ch02.html
 https://git-scm.com/book/es/v1/Empezando
 http://rogerdudler.github.io/git-guide/index.es.html
 
+
 ---------------
+Servidor Git
+http://gitolite.com/gitolite/
+
+
 SO
 https://nixos.org/
 https://www.gnu.org/software/guix/
