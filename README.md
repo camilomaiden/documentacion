@@ -1,14 +1,14 @@
 1) Tmux
 
-http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+- http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
 
 2) LaTeX
 
-http://portal.uned.es/pls/portal/docs/PAGE/UNED_MAIN/LAUNIVERSIDAD/UBICACIONES/01/OFERTAESTUDIOS/GRADOS_CIENCIAS/SOFTWARE%20DESCARGAS%20LINUX/MANUALES/LATEX_INTRO_153PAGS.PDF
+- http://portal.uned.es/pls/portal/docs/PAGE/UNED_MAIN/LAUNIVERSIDAD/UBICACIONES/01/OFERTAESTUDIOS/GRADOS_CIENCIAS/SOFTWARE%20DESCARGAS%20LINUX/MANUALES/LATEX_INTRO_153PAGS.PDF
 
 template tesis usach
-https://bitbucket.org/fgaray/clase-latex-memoria-diinf
-http://www.zergiorubio.org/2015/07/24/template-en-linea-para-tesis-de-la-universidad-de-santiago-de-chile
+- https://bitbucket.org/fgaray/clase-latex-memoria-diinf
+- http://www.zergiorubio.org/2015/07/24/template-en-linea-para-tesis-de-la-universidad-de-santiago-de-chile
 
 formato tesis usach
 guiaweb.usach.cl/formato-tesis
