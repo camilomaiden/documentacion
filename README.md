@@ -6,7 +6,7 @@
 
 - http://portal.uned.es/pls/portal/docs/PAGE/UNED_MAIN/LAUNIVERSIDAD/UBICACIONES/01/OFERTAESTUDIOS/GRADOS_CIENCIAS/SOFTWARE%20DESCARGAS%20LINUX/MANUALES/LATEX_INTRO_153PAGS.PDF
 
-3)template tesis usach
+3) template tesis usach
 - https://bitbucket.org/fgaray/clase-latex-memoria-diinf
 - http://www.zergiorubio.org/2015/07/24/template-en-linea-para-tesis-de-la-universidad-de-santiago-de-chile
 
@@ -27,6 +27,7 @@
 - https://git-scm.com/
 - https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github
 - https://try.github.io/levels/1/challenges/1
+clave git: https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password
 http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es/ch02.html
 https://git-scm.com/book/es/v1/Empezando
 http://rogerdudler.github.io/git-guide/index.es.html
